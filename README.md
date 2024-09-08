@@ -5,7 +5,7 @@ REF:032730009143
 Brand:	Ply Gem Windows & Doors
 
 |  Number |  Room | Location   |  Window Type    |  Notes | Label | 
-| --- | --- | --- | --- | --- | 
+| --- | --- | --- | --- | --- | --- | 
 | 1 |  Dining Room | East Wall, Left Window |  Fixed   |  | Photo | 
 | 2 |  Study | West Wall, Left Window   |  Sliding   | Both upper and lower  | Photo | 
 | 3 |  Study | West Wall, Right Window   |  Sliding   | Upper only | Photo | 
